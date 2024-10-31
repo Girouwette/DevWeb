@@ -1,0 +1,16 @@
+<HTML>
+		<HEAD>
+		
+		<TITLE>Trabalhando com imagens</TITLE>
+		</HEAD>
+
+		<BODY>
+		<H1  ALIGN="CENTER">FOTO APRESENTADA</H1>
+		<HR ALIGN="CENTER" WIDTH=100% SIZE=10 COLOR="BLUE">
+		<H3 ALIGN="CENTER" WIDTH=100% SIZE=10><IMG SRC="Coelho.png">
+
+<HR ALIGN="CENTER" WIDTH=100% SIZE=10 COLOR="BLUE">
+<H3 ALIGN="CENTER">Bunny and Starry Sky</H3>
+
+		</BODY>
+</HTML>

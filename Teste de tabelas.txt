@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+	<TITLE>Tabela 1</TITLE>
+</HEAD>
+
+<BODY>
+
+	Exemplo abaixo:
+
+	<TABLE border=2>
+	<TR>
+	<TD>Linha 1 coluna 1</TD>
+	<TD>Linha 1 coluna 2</TD>
+	<TD>Linha 1 coluna 3</TD>
+	</TR>
+	<TR>
+	<TD>Linha 2 coluna 1</TD>
+	<TD>Linha 2 coluna 2</TD>
+	<TD>Linha 2 coluna 3</TD>
+	</TR>
+	<TR>
+	<TD>Linha 3 coluna 1</TD>
+	<TD>Linha 3 coluna 2</TD>
+	<TD>Linha 3 coluna 3</TD>
+	</TABLE>

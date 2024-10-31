@@ -1,0 +1,154 @@
+<HTML>
+<HEAD>
+
+
+<style>
+#dublagem {
+ font-family: Arial, Helvetica, sansa-serif;
+ border-collapse: collapse;
+ width: 100%;
+}
+
+#dublagem td, #dublagem th {
+ padding: 8px;
+ border: 1px solid #ddd;
+}
+
+#dublagem tr:nth-child(even){background-color: #f2f2f2;}
+
+#dublagem td:hover {background-color: #ddd;}
+
+#dublagem th {
+ padding-top: 12px;
+ padding-bottom: 12px;
+ text-align: center;
+ background-color: green;
+ color: white;
+}
+</style>
+</head>
+
+<body>
+	<center>
+	<h1>Tabela de Dublagens</h1>
+	
+	<table id="dublagem">
+	<align=center>
+	<TR>
+	<TH>Personagens</TH>
+	<TH>Dubladores Japoneses</TH>
+	<TH>Dubladores Ingleses</TH>
+	</TR>
+	
+	<table id="Dublagem">
+	<TR>
+	<TD><center>Cecil</TD>
+	<TD><center>Shizuma Hodoshima</TD>
+	<TD><center>Yuri Lowenthal</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Rosa</TD>
+	<TD><center>Yüko Kaida</TD>
+	<TD><center>Kirsty Pape</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Kain</TD>
+	<TD><center>Köichi Yamadera</TD>
+	<TD><center>Liam O'Brien</TD>
+	</TR>
+
+	<TR nowrap>
+	<TD><center>Rydia</TD>
+	<TD><center>Noriko Shitaya</TD>
+	<TD><center>Daniella Macey</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Tellah</TD>
+	<TD><center>Gorö Naya</TD>
+	<TD><center>Lee Everest</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Edward</TD>
+	<TD><center>Ryö Horikawa</TD>
+	<TD><center>Sam Riegel</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Palom</TD>
+	<TD><center>Rie Kugimiya</TD>
+	<TD><center>Megan Harvey</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Porom</TD>
+	<TD><center>Rie Kugimiya</TD>
+	<TD><center>Hunter MacKenzie Austin</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Yang</TD>
+	<TD><center>Tensshö Genda</TD>
+	<TD><center>Jackson Daniels</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Edge</TD>
+	<TD><center>Hiroya Ishimaru</TD>
+	<TD><center>Taliesin Jaffe</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Cid</TD>
+	<TD><center>Ichirö Nagai</TD>
+	<TD><center>Stephen Martello</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Fusoya</TD>
+	<TD><center>Banjö Ginga</TD>
+	<TD><center>Michael McConnohie</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Barbariccia</TD>
+	<TD><center>Yüko Kaida</TD>
+	<TD><center>Kirsty Pape</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Rubicante</TD>
+	<TD><center>Norio Wakamoto</TD>
+	<TD><center>Lee Everest</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Anna</TD>
+	<TD><center>Hitomi Akino</TD>
+	<TD><center>Zarah Little</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Mysidian Elder</TD>
+	<TD><center>Ryuji Saikachi</TD>
+	<TD><center>William Frederick</TD>
+	</TR>
+
+	<TR><center>
+	<TD><center>Kiuya</TD>
+	<TD><center>Banjö Ginga</TD>
+	<TD><center>Ralph Lister</TD>
+	</TR>
+
+	<TR>
+	<TD><center>Zeromus</TD>
+	<TD><center>Ryö Horikawa</TD>
+	<TD><center>Michael McConnohie</TD>
+	</TR>
+	</table> </center>
+
+</body>
+</html>

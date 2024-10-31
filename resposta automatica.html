@@ -1,0 +1,44 @@
+<FONT face="Arial, Helvetica, sans-serif, Arial Black" size=2><html>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size=1><head>
+<script language="JavaScript"
+<!-- Hide
+function test1(form) {
+ if (form.text1.value == "")
+ alert("Coloque alguma informação, por favor!")
+ else {
+ alert("Olá "+form.test1.value+"! Informação de formulário ok!");
+ }
+}
+
+function test2(form) {
+ if (form.text2.value = "" ||
+       form.text2.value.indexOf('@', 0) == -1)
+	alert("Seu e-mail deve ter um '@'!");
+            else alert("Olha só que legal, "+form.text1.value+"! Vou lhe mandar um e-mail em "+form.text2.value+"!");
+}
+
+function teste3(form) { if (form.text3.value == "4")
+ alert("Correto "+form.text1.value+"!")
+ else alert("Oh, que pena, você errou...");
+   }
+   }
+// -->
+</script>
+<FONT face"Arial, Helvetica, sans-serif, Arial Black"><br>
+<br>
+Utilize o formulário abaixo para verificar suas respostas.<br>
+São exemplos de validação de dados.</FONT><br>
+&nbsp;<form name="first">
+<p>Escreva seu nome:<br>
+<input type="text" name="text1" size="20">
+<input type="button" name="button1"
+value="Teste a Informação" onClick="test1(this.form)"></p>
+<p>
+Escreva seu e-mail:<br>
+<input type="text" name="text2" size="20">
+<input type="button" name = "button2"
+value="Teste a informação" onClick="test2(this.form)"><br>
+<br>
+Quanto é 2+2?<br>
+<input type="text" name="text3" size="20">
+<input type="button" value="Teste a informação" name="button3" onClick="teste3(this.form)"><br>

@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Slide show</title>
+
+<center><script>
+	b=0
+	function slideshow()
+	{
+	switch (b)
+	{
+	case 0:foto.src="1-2 (10).jpg";
+		break;
+	case 1:foto.src="1-2 (14).jpg";
+		break;
+	case 2:foto.src="1-2 (19).jpg";
+		break;
+	case 3:foto.src="1-2 (25).jpg";
+		break;
+	case 4:foto.src="1-2 (27).jpg";
+	b=-1;
+	}
+	b++;
+	}
+</script>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1"></head>
+<body bgcolor="#999999"
+text="#FFFFFF" link="#000000"
+vlink="#000000" alink="#000000"
+onLoad="setInterval('slideshow()',1000)";>
+<p><img src="lu_tran.gif" name="foto">
+</p>
+<p>Espero que gostem de nossas viagens!</p>
+</center>
+
+</body>
+</html>

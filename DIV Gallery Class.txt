@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<HTML><HEAD>
+
+<style>
+div.gallery {
+ margin: 5px;
+ border: 1px solid #ccc;
+float: left;
+width: 180px;
+}
+
+div.gallery:hover {
+ border: 1px solid #777;
+}
+
+div.gallery img {
+ width: 100%;
+ height: auto;
+}
+
+div.desc {
+ padding: 15px;
+ text-align: center;
+}
+
+</style>
+</HEAD>
+
+<BODY>
+	
+<div class="gallery">
+ <a target="_blank" href="Coelho.png">
+  <img src="Coelho.png" alt="Cinque Terre" width="600" height="400">
+ </a>
+ <div class="desc">Lagomorfo</div>
+</div>
+</div>
+
+<div class="gallery">
+ <a target="_blank" href="a-venda-de-verao-do-meta-quest-chegou-economize.webp">
+  <img src="a-venda-de-verao-do-meta-quest-chegou-economize.webp" alt="VR" width="600" height="400">
+ </a>
+ <div class="desc">Virtual Reality</div>
+</div>
+
+</BODY>
+</HTML>

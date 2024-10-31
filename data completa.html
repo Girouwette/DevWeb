@@ -1,0 +1,19 @@
+<HTML>
+<HEAD><TITLE>Data</TITLE></HEAD>
+<BODY>
+
+<script>
+	var hoje = new Date();
+	var dd = hoje.getDate();
+	if(dd<10)
+	dd="0"+dd;
+	var mm = hoje.getMonth()+1;
+	if(mm<10)
+	mm="0"+mm;
+	var yyyy = hoje.getFullYear();
+	hoje = dd+"-"+mm+"-"+yyyy;
+	document.write("<b>"+hoje+"</b>");
+</script>
+
+</BODY>
+</HTML>	

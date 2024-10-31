@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+                 <TITLE>ESTE É O TÍTULO DA PÁGINA</TITLE>
+</HEAD>
+<BODY>
+	<H1>Este é um cabeçário nível 1</H1>
+	<HR ALIGN="center" WDTH=50% SIZE=15 COLOR="BLUE" NOSHADE>
+	<H2>Este é um cabeçário nível 2</H2>
+	<HR ALIGN="center" WDTH=25% SIZE=20 COLOR="RED" NOSHADE>
+	<H3>Este é um cabeçário nível 3</H3>
+	<HR ALIGN="right"WDTH=25% SIZE=20 NOSHADE>
+	<H4>Este é um cabeçário nível 4</H4>
+	<HR ALIGN="left"WDTH=600% SIZE=10 NOSHADE>
+	<H5>Este é um cabeçário nível 5</H5>
+	<HR>
+	<H6>Este é um cabeçário nível 6</H6>
+	<HR>
+
+Texto inicial
+<P ALIGN="center">Teste de HTML</P>
+HTML<BR>
+<P ALIGN="right">
+Javascript<BR>
+CSS<BR>
+Ajax<P>
+Fim da lista<P>
+Exemplo de texto longo<P ALIGN="justify">
+
+</BODY>
+</HTML>

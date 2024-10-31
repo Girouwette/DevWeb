@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+                 <TITLE>ESTE É O TÍTULO DA PÁGINA</TITLE>
+</HEAD>
+<BODY>
+
+<.P>Parágrafo em textos<./P
+<.BR>Quebra para a linha abaixo<./BR>
+
+
+	<H1>Este é um cabeçário nível 1</H1>
+	<HR ALIGN="center">
+	<H2>Este é um cabeçário nível 2</H2>
+	<HR>
+	<H3>Este é um cabeçário nível 3</H3>
+	<HR>
+	<H4>Este é um cabeçário nível 4</H4>
+	<HR>
+	<H5>Este é um cabeçário nível 5</H5>
+	<HR>
+	<H6>Este é um cabeçário nível 6</H6>
+	<HR>
+
+Texto inicial
+<P ALIGN="center">Teste de HTML</P>
+HTML<BR>
+<P ALIGN="right">
+Javascript<BR>
+CSS<BR>
+Ajax<P>
+Fim da lista<P>
+Exemplo de texto longo<P ALIGN="justify">
+
+</BODY>
+</HTML>

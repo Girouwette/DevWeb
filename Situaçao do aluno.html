@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situaçao do aluno</title>
+    <link rel="stylesheet" href="Situaçao do aluno.css">
+</head>
+<body>
+<h1>Situação do aluno</h1>
+<button onclick="teste()">Entrar com as notas</button>
+	<section id ="result">
+		<p>Clique no botão acima para informar as notas do aluno.</p>
+	</section>
+
+<script Language="JavaScript">
+function Notas()
+{
+ if (document.notes.value == "" {
+		alert("Qual é a nota do aluno?");
+		document.notes.style.background = "000000"
+	return false;
+}
+ if (document.cadastro.senha.value != "1234"){
+	alert("Senha incorreta");
+	return false;
+}
+	return true;
+}
+</script>
+
+
+    <div class="container">
+
+        <form id="formulario-01">
+            <input type="name" placeholder="Digite o nome do aluno" name="N1">
+            <input type="number" placeholder="Digite a nota" name="N2">
+            <input type="number" placeholder="Digite a nota" name="N3">
+            <input type="number" placeholder="Digite a nota" name="N4">
+            <button type="submit">Enviar</button>
+        </form>
+
+        <div id="resultado">
+
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="./script.js"></script>
+</body>
+</html>Copiar código
